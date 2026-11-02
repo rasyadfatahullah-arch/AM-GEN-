@@ -1,0 +1,13 @@
+{
+  "name": "jiyyad-tools-am-prem-gen-3",
+  "version": "3.0.0",
+  "description": "AM PREM GEN 3.0 - JIYYAD TOOLS (Liquid Glass)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5"
+  }
+}
